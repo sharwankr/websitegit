@@ -1,0 +1,23 @@
+-------------------Git commands -------------------
+git init
+git init
+git status
+git checkout fileName			------->workingDir <> lastcommit compare
+git checkout -f 
+git log
+git log -p -2		-------> See filter list no of commit
+git diff			--------->workingDir <> stageDir
+git diff --staged
+git add . || git add -a			------> all file add for git track
+git add fileName	-------> Single file add for git track
+git commit -m "Your Commit Msg"
+git commit -a -m "Your Commit Msg"		----->skip stage direct commit
+git rm		--------> remove file stage + local
+git rm --catched 	---------> remove file from stage only
+git ignore ----> file or directory
+
+
+-------------------linux commands -------------------
+clear
+touch
+ls
