@@ -1,3 +1,26 @@
+
+
+-------------------GIT @22112019-----------------------
+git init
+git remote show
+git remote origin
+git remote <remoteName>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -------------------Git commands -------------------
 git init
 git init
