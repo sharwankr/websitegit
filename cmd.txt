@@ -1,0 +1,5 @@
+How do I revert a Git repository to a previous commit?
+Temporarily switch to a different commit
+
+git checkout 0d1d7fc32
+
