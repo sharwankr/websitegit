@@ -4,3 +4,6 @@ Temporarily switch to a different commit
 git checkout 0d1d7fc32
 
 ---------------------------New update @22112019
+Hard delete unpublished commits
+git reset --hard 0d1d7fc32
+git stash
