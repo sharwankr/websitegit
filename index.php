@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Home Page</title>
 </head>
 <body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<?php include_once("menu.php");?>
+<h1>This is a Home Page</h1>
+<p> Your Home page content</p>
 
 </body>
 </html>
